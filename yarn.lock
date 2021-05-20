@@ -5282,6 +5282,11 @@ react-native-codegen@^0.0.6:
     jscodeshift "^0.11.0"
     nullthrows "^1.1.1"
 
+react-native-sodium@^0.3.9:
+  version "0.3.9"
+  resolved "https://registry.yarnpkg.com/react-native-sodium/-/react-native-sodium-0.3.9.tgz#cd853b9ef03ee053130d6d731c5d738f65a961db"
+  integrity sha512-eLI2n5Kflvq6OcVHW4estK0EGFlSDk2fHSHst4a2ysO4Hpm5nxf/DCQ7DWcLZYJlE9SX9wk461eF9wKZL/gwfQ==
+
 react-native@0.64.1:
   version "0.64.1"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.64.1.tgz#cd38f5b47b085549686f34eb0c9dcd466f307635"
